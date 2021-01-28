@@ -72,3 +72,7 @@ Plugins/*/Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
+GG21/Intermediate/CachedAssetRegistry.bin
+GG21/Intermediate/CachedAssetRegistry.bin
+GG21/Saved/Config/Windows/EditorPerProjectUserSettings.ini
+GG21/Saved/Logs/GG21.log
