@@ -83,3 +83,5 @@ GG21/Saved/Logs/GG21.log
 *.ini
 *.log
 *.png
+Saved/Autosaves/PackageRestoreData.json
+Saved/AutoScreenshot.png
